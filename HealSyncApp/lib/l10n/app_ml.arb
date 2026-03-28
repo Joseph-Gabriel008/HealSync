@@ -1,0 +1,228 @@
+{
+  "appTitle": "ഹീൽസിങ്ക്",
+  "welcome": "സ്വാഗതം",
+  "upload": "മെഡിക്കൽ റെക്കോർഡ് അപ്‌ലോഡ് ചെയ്യുക",
+  "language": "ഭാഷ",
+  "english": "ഇംഗ്ലീഷ്",
+  "hindi": "ഹിന്ദി",
+  "tamil": "തമിഴ്",
+  "telugu": "തെലുങ്ക്",
+  "malayalam": "മലയാളം",
+  "createCareWorkspace": "നിങ്ങളുടെ കെയർ വർക്ക്‌സ്‌പേസ് സൃഷ്ടിക്കുക",
+  "welcomeBack": "വീണ്ടും സ്വാഗതം",
+  "signupSubtitle": "നിങ്ങളുടെ അക്കൗണ്ട് സജ്ജമാക്കി HealSync എങ്ങനെ ഉപയോഗിക്കണമെന്ന് തിരഞ്ഞെടുക്കുക.",
+  "loginSubtitle": "കൺസൾട്ടേഷനുകൾ, റെക്കോർഡുകൾ, സ്ഥിരീകരിച്ച ആരോഗ്യ ഡാറ്റ എന്നിവ നിയന്ത്രിക്കാൻ സൈൻ ഇൻ ചെയ്യുക.",
+  "fullName": "പൂർണ്ണ പേര്",
+  "email": "ഇമെയിൽ",
+  "password": "പാസ്‌വേഡ്",
+  "patient": "രോഗി",
+  "doctor": "ഡോക്ടർ",
+  "createAccount": "അക്കൗണ്ട് സൃഷ്ടിക്കുക",
+  "loginAction": "ലോഗിൻ",
+  "alreadyHaveAccount": "ഇതിനകം അക്കൗണ്ട് ഉണ്ടോ? ലോഗിൻ ചെയ്യുക",
+  "needAccount": "അക്കൗണ്ട് വേണോ? സൈൻ അപ്പ് ചെയ്യുക",
+  "careHeroHeadline": "ബന്ധിപ്പിച്ച, സ്ഥിരീകരിച്ച, ലളിതമായ ചികിത്സാനുഭവം.",
+  "careHeroBody": "HealSync ടെലിമെഡിസിൻ, റിയൽടൈം റെക്കോർഡുകൾ, മനോഹരമായ ഹെൽത്ത്‌ക്കെയർ വർക്ക്‌സ്‌പേസ് എന്നിവയെ ഒരു ശാന്തമായ അനുഭവമായി ഒന്നിക്കുന്നു.",
+  "realtimeRecords": "റിയൽടൈം റെക്കോർഡുകൾ",
+  "verifiedReports": "സ്ഥിരീകരിച്ച റിപ്പോർട്ടുകൾ",
+  "secureConsultations": "സുരക്ഷിത കൺസൾട്ടേഷനുകൾ",
+  "logout": "ലോഗ്ഔട്ട്",
+  "patientDashboardTitle": "രോഗി ഡാഷ്ബോർഡ്",
+  "doctorDashboardTitle": "ഡോക്ടർ ഡാഷ്ബോർഡ്",
+  "welcomeBackUser": "വീണ്ടും സ്വാഗതം, {name}",
+  "@welcomeBackUser": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "patientHeroSubtitle": "ബുക്കിംഗുകളിൽ നിന്ന് സ്ഥിരീകരിച്ച മെഡിക്കൽ റെക്കോർഡുകൾ വരെ എല്ലാം ഇപ്പോൾ ഒരൊറ്റ ശാന്തമായ ഹെൽത്ത് കമാൻഡ് സെന്ററിലാണ്.",
+  "verifiedRecordsLabel": "സ്ഥിരീകരിച്ച റെക്കോർഡുകൾ",
+  "appointmentsLabel": "അപ്പോയിന്റ്മെന്റുകൾ",
+  "bookAppointment": "അപ്പോയിന്റ്മെന്റ് ബുക്ക് ചെയ്യുക",
+  "uploadRecord": "റെക്കോർഡ് അപ്‌ലോഡ് ചെയ്യുക",
+  "nextConsultation": "അടുത്ത കൺസൾട്ടേഷൻ",
+  "consultationWithDoctor": "{doctorName} യോടുള്ള കൺസൾട്ടേഷൻ",
+  "@consultationWithDoctor": {
+    "placeholders": {
+      "doctorName": {}
+    }
+  },
+  "join": "ചേരുക",
+  "trackBookingsStatuses": "ബുക്കിംഗുകളും നിലകളും നിരീക്ഷിക്കുക",
+  "medicalHistory": "മെഡിക്കൽ ചരിത്രം",
+  "reportsVerificationAudit": "റിപ്പോർട്ടുകൾ, പരിശോധന, ഓഡിറ്റ്",
+  "prescriptionsTitle": "പ്രിസ്ക്രിപ്ഷനുകൾ",
+  "doctorMedicationsNotes": "ഡോക്ടർ മരുന്നുകളും കുറിപ്പുകളും",
+  "healthPassport": "ഹെൽത്ത് പാസ്‌പോർട്ട്",
+  "portableVerifiedProfile": "നിങ്ങളുടെ കൈയിൽ കൊണ്ടുപോകാവുന്ന സ്ഥിരീകരിച്ച പ്രൊഫൈൽ",
+  "recentRecords": "സമീപകാല റെക്കോർഡുകൾ",
+  "referenceCode": "റഫറൻസ്: {code}",
+  "@referenceCode": {
+    "placeholders": {
+      "code": {}
+    }
+  },
+  "verified": "സ്ഥിരീകരിച്ചു",
+  "notVerified": "സ്ഥിരീകരിച്ചിട്ടില്ല",
+  "myAppointments": "എന്റെ അപ്പോയിന്റ്മെന്റുകൾ",
+  "noAppointmentsYet": "ഇനിയും അപ്പോയിന്റ്മെന്റുകളില്ല",
+  "bookConsultationPrompt": "നിങ്ങളുടെ സന്ദർശനങ്ങൾ ഇവിടെ കാണാൻ ഡാഷ്ബോർഡിൽ നിന്ന് ഒരു കൺസൾട്ടേഷൻ ബുക്ക് ചെയ്യുക.",
+  "confirmBooking": "ബുക്കിംഗ് സ്ഥിരീകരിക്കുക",
+  "selectDoctor": "ഡോക്ടറെ തിരഞ്ഞെടുക്കുക",
+  "telemedicineSuffix": "{name} - ടെലിമെഡിസിൻ",
+  "@telemedicineSuffix": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "consultationDateTime": "കൺസൾട്ടേഷൻ തീയതിയും സമയവും",
+  "appointmentConfirmed": "അപ്പോയിന്റ്മെന്റ് സ്ഥിരീകരിച്ചു",
+  "noDoctorAccountAvailable": "ബാക്ക്‌എൻഡിൽ ഇതുവരെ ഡോക്ടർ അക്കൗണ്ട് ലഭ്യമല്ല. ആദ്യം ഡോക്ടറോട് HealSync ൽ സൈൻ അപ്പ് ചെയ്യാൻ പറഞ്ഞ ശേഷം വീണ്ടും ശ്രമിക്കുക.",
+  "payment": "പേയ്മെന്റ്",
+  "consultationPayment": "കൺസൾട്ടേഷൻ പേയ്മെന്റ്",
+  "doctorLabel": "ഡോക്ടർ",
+  "appointmentTime": "അപ്പോയിന്റ്മെന്റ് സമയം",
+  "amount": "തുക",
+  "processingPayment": "പേയ്മെന്റ് പ്രോസസ്സ് ചെയ്യുന്നു...",
+  "processing": "പ്രോസസ്സ് ചെയ്യുന്നു...",
+  "payNow": "ഇപ്പോൾ പണമടയ്ക്കുക",
+  "paymentFailedTryAgain": "പേയ്മെന്റ് പരാജയപ്പെട്ടു. വീണ്ടും ശ്രമിക്കുക",
+  "paymentSuccessful": "പേയ്മെന്റ് വിജയിച്ചു",
+  "appointmentConfirmedMessage": "നിങ്ങളുടെ അപ്പോയിന്റ്മെന്റ് സ്ഥിരീകരിച്ചു",
+  "ok": "ശരി",
+  "doctorGreeting": "ഹലോ ഡോ. {name}",
+  "@doctorGreeting": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "doctorHeroSubtitle": "ശാന്തമായ ക്ലിനിക്കൽ പ്രവാഹത്തോടെ കൺസൾട്ടേഷനുകൾ നടത്തുക, പ്രിസ്ക്രിപ്ഷനുകൾ നൽകുക, രോഗികളുടെ റിപ്പോർട്ടുകൾ സ്ഥിരീകരിക്കുക.",
+  "quickActions": "വേഗ പ്രവർത്തനങ്ങൾ",
+  "patientList": "രോഗി പട്ടിക",
+  "recordsHub": "റെക്കോർഡ്സ് ഹബ്",
+  "upcomingConsultations": "വരാനിരിക്കുന്ന കൺസൾട്ടേഷനുകൾ",
+  "start": "ആരംഭിക്കുക",
+  "patientsLabel": "രോഗികൾ",
+  "searchByDoctorName": "ഡോക്ടർ പേരിൽ തിരയുക",
+  "noDoctorsFound": "ഡോക്ടർമാരെ കണ്ടെത്താനായില്ല",
+  "all": "എല്ലാം",
+  "cardiology": "കാർഡിയോളജി",
+  "dermatology": "ഡെർമറ്റോളജി",
+  "general": "ജനറൽ",
+  "pediatrics": "പീഡിയാട്രിക്സ്",
+  "experienceValue": "അനുഭവം: {value}",
+  "@experienceValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "records": "റെക്കോർഡുകൾ",
+  "historyTitle": "{name} യുടെ ചരിത്രം",
+  "@historyTitle": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "grantAccess": "ആക്സസ് അനുവദിക്കുക",
+  "revokeAccess": "ആക്സസ് പിൻവലിക്കുക",
+  "doctorAccessRevoked": "ഡോക്ടർ ആക്സസ് വിജയകരമായി പിൻവലിച്ചു.",
+  "doctorAccessGranted": "ഡോക്ടർ ആക്സസ് വിജയകരമായി അനുവദിച്ചു.",
+  "updateAccessPermissionsError": "ഇപ്പോൾ ആക്സസ് അനുമതികൾ പുതുക്കാനായില്ല.",
+  "liveConsultationRoom": "ലൈവ് കൺസൾട്ടേഷൻ റൂം",
+  "channelLabel": "ചാനൽ: {channelId}",
+  "@channelLabel": {
+    "placeholders": {
+      "channelId": {}
+    }
+  },
+  "recording": "റെക്കോർഡിംഗ്",
+  "liveDuration": "ലൈവ് ദൈർഘ്യം: {duration}",
+  "@liveDuration": {
+    "placeholders": {
+      "duration": {}
+    }
+  },
+  "viewHistory": "ചരിത്രം കാണുക",
+  "addRecord": "റെക്കോർഡ് ചേർക്കുക",
+  "mute": "മ്യൂട്ട്",
+  "unmute": "അൺമ്യൂട്ട്",
+  "camera": "ക്യാമറ",
+  "turnCameraOn": "ക്യാമറ ഓൺ ചെയ്യുക",
+  "rearCamera": "പിൻ ക്യാമറ",
+  "frontCamera": "മുൻ ക്യാമറ",
+  "end": "അവസാനിപ്പിക്കുക",
+  "you": "നിങ്ങൾ",
+  "remoteParticipant": "മറ്റ് പങ്കാളി",
+  "cameraOff": "ക്യാമറ ഓഫ്",
+  "localCamera": "ലോക്കൽ ക്യാമറ",
+  "waitingSecondPerson": "രണ്ടാമത്തെ ആളെ കാത്തിരിക്കുന്നു",
+  "connectedLive": "ലൈവായി കണക്റ്റ് ചെയ്തു",
+  "diagnosis": "രോഗനിർണ്ണയം",
+  "prescription": "പ്രിസ്ക്രിപ്ഷൻ",
+  "saveNotes": "കുറിപ്പുകൾ സംരക്ഷിക്കുക",
+  "consultationNotesSaved": "കൺസൾട്ടേഷൻ കുറിപ്പുകൾ സംരക്ഷിച്ചു.",
+  "saveNotesError": "ഇപ്പോൾ കൺസൾട്ടേഷൻ കുറിപ്പുകൾ സംരക്ഷിക്കാനായില്ല.",
+  "patientHistoryUnavailable": "രോഗിയുടെ ചരിത്രം ഇപ്പോൾ ലഭ്യമല്ല.",
+  "noMedicalHistoryFound": "ഇതുവരെ മെഡിക്കൽ ചരിത്രം കണ്ടെത്തിയിട്ടില്ല.",
+  "onlyDoctorsCanAddRecords": "ഡോക്ടർമാർക്ക് മാത്രമേ റെക്കോർഡുകൾ ചേർക്കാൻ കഴിയൂ.",
+  "patientDetailsUnavailable": "രോഗിയുടെ വിവരങ്ങൾ ഇപ്പോൾ ലഭ്യമല്ല.",
+  "medicalRecordSaved": "മെഡിക്കൽ റെക്കോർഡ് വിജയകരമായി സംരക്ഷിച്ചു.",
+  "cameraMicAccessRequired": "ക്യാമറയും മൈക്കും ആക്സസ് ആവശ്യമാണ്",
+  "openSettings": "സെറ്റിംഗ്സ് തുറക്കുക",
+  "readyToJoinConsultationRoom": "കൺസൾട്ടേഷൻ റൂമിൽ ചേരാൻ തയ്യാറാണ്.",
+  "agoraNotConfigured": "Agora ഇനിയും ക്രമീകരിച്ചിട്ടില്ല. ലൈവ് കൺസൾട്ടേഷനിൽ ചേരുന്നതിന് മുമ്പ് AGORA_APP_IDയും ആവശ്യമെങ്കിൽ AGORA_TEMP_TOKENഉം ചേർക്കുക.",
+  "preparingSecureVideoConsultation": "സുരക്ഷിത വീഡിയോ കൺസൾട്ടേഷൻ തയ്യാറാക്കുന്നു...",
+  "youAreLiveInRoom": "നിങ്ങൾ കൺസൾട്ടേഷൻ റൂമിൽ ലൈവിലാണ്.",
+  "doctorPatientConnected": "ഡോക്ടറും രോഗിയും ഇപ്പോൾ ബന്ധപ്പെട്ടു.",
+  "otherParticipantLeft": "മറ്റ് പങ്കാളി റൂം വിട്ടു. കണക്റ്റ് ആയി തുടരുക അല്ലെങ്കിൽ കൺസൾട്ടേഷൻ അവസാനിപ്പിക്കുക.",
+  "connectingSecureConsultation": "സുരക്ഷിത കൺസൾട്ടേഷൻ കണക്റ്റ് ചെയ്യുന്നു...",
+  "connectionDroppedReconnect": "കണക്ഷൻ നഷ്ടപ്പെട്ടു. കൺസൾട്ടേഷൻ വീണ്ടും ബന്ധിപ്പിക്കാൻ ശ്രമിക്കുന്നു...",
+  "consultationConnectionFailedTokenless": "കൺസൾട്ടേഷൻ കണക്ഷൻ പരാജയപ്പെട്ടു. സാധാരണയായി ഇതിന്റെ അർത്ഥം Agora പ്രോജക്റ്റിന് ടോക്കൺ ആവശ്യമാണ്. ടെസ്റ്റിംഗിനായി App Certificate ഓഫ് ചെയ്യുക അല്ലെങ്കിൽ AGORA_TEMP_TOKEN നൽകുക.",
+  "consultationConnectionFailedRetry": "കൺസൾട്ടേഷൻ കണക്ഷൻ പരാജയപ്പെട്ടു. ദയവായി റൂമിൽ വീണ്ടും ചേരുക.",
+  "joinCancelledUntilPermissions": "അനുമതികൾ ലഭിക്കും വരെ ചേരൽ റദ്ദാക്കി.",
+  "joinCancelledUntilEnabled": "അനുമതികൾ പ്രവർത്തനക്ഷമമാകുന്നത് വരെ ചേരൽ റദ്ദാക്കി.",
+  "joiningConsultationRoom": "കൺസൾട്ടേഷൻ റൂമിൽ ചേരുന്നു...",
+  "liveVideoSetupWaiting": "ലൈവ് വീഡിയോ ക്രമീകരണം Agora ഓത് സ്ഥിരീകരണത്തിനായി കാത്തിരിക്കുന്നു.",
+  "unableToJoinConsultationRoom": "കൺസൾട്ടേഷൻ റൂമിൽ ചേരാനായില്ല.",
+  "consultationEnded": "കൺസൾട്ടേഷൻ അവസാനിച്ചു.",
+  "cameraMicPermissionsRequired": "കൺസൾട്ടേഷനിൽ ചേരുന്നതിന് മുമ്പ് ക്യാമറയും മൈക്രോഫോണും അനുമതികൾ ആവശ്യമാണ്.",
+  "cameraMicPermanentlyDenied": "ക്യാമറയും മൈക്രോഫോണും ആക്സസ് സ്ഥിരമായി നിരസിച്ചിരിക്കുന്നു. തുടരാൻ സെറ്റിംഗ്സ് തുറക്കുക.",
+  "healsyncNeedsPermissions": "ലൈവ് കൺസൾട്ടേഷൻ ആരംഭിക്കുന്നതിന് മുമ്പ് HealSync ന് ക്യാമറയും മൈക്രോഫോണും അനുമതി വേണം.",
+  "agoraRejectingTokenless": "ഈ Agora പ്രോജക്റ്റ് ടോക്കൺ ഇല്ലാത്ത ആക്സസ് നിരസിക്കുന്നു. ടെസ്റ്റിംഗിനായി Agora Console ൽ App Certificate ഓഫ് ചെയ്യുക അല്ലെങ്കിൽ സാധുവായ AGORA_TEMP_TOKEN നൽകുക.",
+  "agoraTokenMissingExpired": "നിങ്ങളുടെ Agora ടോക്കൺ കാണാനില്ല അല്ലെങ്കിൽ കാലഹരണപ്പെട്ടു. പുതിയ ടോക്കൺ സൃഷ്ടിച്ച് വീണ്ടും ശ്രമിക്കുക.",
+  "networkUnstable": "നെറ്റ്‌വർക്ക് സ്ഥിരതയില്ലാത്തതിനാൽ വീഡിയോ സെഷൻ കണക്റ്റ് ചെയ്യാനായില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക.",
+  "unableStartLiveConsultation": "ഇപ്പോൾ ലൈവ് കൺസൾട്ടേഷൻ ആരംഭിക്കാനായില്ല. നിങ്ങളുടെ Agora ക്രമീകരണം പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക.",
+  "recordingFailed": "റെക്കോർഡിംഗ് പരാജയപ്പെട്ടു",
+  "readyForPreview": "പ്രീവ്യൂക്കായി തയ്യാറാണ്",
+  "cameraIsOff": "ക്യാമറ ഓഫാണ്",
+  "waitingForOtherParticipant": "മറ്റ് പങ്കാളിയെ കാത്തിരിക്കുന്നു",
+  "agoraSetupRequired": "Agora ക്രമീകരണം ആവശ്യമാണ്",
+  "agoraSetupRequiredBody": "നിങ്ങളുടെ പ്രോജക്റ്റ് ടോക്കൺ ഇല്ലാത്ത ആക്സസ് നിരസിക്കുന്നു. ടെസ്റ്റിംഗിനായി Agora Console ൽ App Certificate ഓഫ് ചെയ്യുക അല്ലെങ്കിൽ ഈ ചാനലിന് AGORA_TEMP_TOKEN സൃഷ്ടിച്ച് ആപ്പ് വീണ്ടും പ്രവർത്തിപ്പിക്കുക.",
+  "noFileAttached": "ഫയൽ ചേർത്തിട്ടില്ല",
+  "pdfFileAttached": "PDF ഫയൽ ചേർത്തിരിക്കുന്നു",
+  "fileAttached": "ഫയൽ ചേർത്തിരിക്കുന്നു",
+  "dateLabel": "തീയതി: {date}",
+  "@dateLabel": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "prescriptionLabel": "പ്രിസ്ക്രിപ്ഷൻ: {value}",
+  "@prescriptionLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "addRecordTitle": "റെക്കോർഡ് ചേർക്കുക",
+  "patientLabel": "രോഗി: {name}",
+  "@patientLabel": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "condition": "സ്ഥിതി",
+  "uploadFileOptional": "ഫയൽ അപ്‌ലോഡ് ചെയ്യുക (ഐച്ഛികം)",
+  "saveRecord": "റെക്കോർഡ് സംരക്ഷിക്കുക",
+  "saving": "സംരക്ഷിക്കുന്നു...",
+  "conditionPrescriptionRequired": "സ്ഥിതിയും പ്രിസ്ക്രിപ്ഷനും ആവശ്യമാണ്."
+}

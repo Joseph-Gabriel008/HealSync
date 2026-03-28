@@ -1,0 +1,228 @@
+{
+  "appTitle": "हीलसिंक",
+  "welcome": "स्वागत है",
+  "upload": "मेडिकल रिकॉर्ड अपलोड करें",
+  "language": "भाषा",
+  "english": "अंग्रेज़ी",
+  "hindi": "हिंदी",
+  "tamil": "तमिल",
+  "telugu": "तेलुगु",
+  "malayalam": "मलयालम",
+  "createCareWorkspace": "अपना देखभाल कार्यक्षेत्र बनाएं",
+  "welcomeBack": "फिर से स्वागत है",
+  "signupSubtitle": "अपना खाता सेट करें और चुनें कि आप हीलसिंक का उपयोग कैसे करते हैं।",
+  "loginSubtitle": "परामर्श, रिकॉर्ड और सत्यापित स्वास्थ्य डेटा प्रबंधित करने के लिए साइन इन करें।",
+  "fullName": "पूरा नाम",
+  "email": "ईमेल",
+  "password": "पासवर्ड",
+  "patient": "रोगी",
+  "doctor": "डॉक्टर",
+  "createAccount": "खाता बनाएं",
+  "loginAction": "लॉगिन",
+  "alreadyHaveAccount": "क्या आपका पहले से खाता है? लॉगिन करें",
+  "needAccount": "खाता चाहिए? साइन अप करें",
+  "careHeroHeadline": "ऐसी देखभाल जो जुड़ी हुई, सत्यापित और खूबसूरती से सरल लगे।",
+  "careHeroBody": "हीलसिंक टेलीमेडिसिन, रीयलटाइम रिकॉर्ड और सुंदर स्वास्थ्य कार्यक्षेत्र को एक शांत अनुभव में लाता है।",
+  "realtimeRecords": "रीयलटाइम रिकॉर्ड",
+  "verifiedReports": "सत्यापित रिपोर्ट",
+  "secureConsultations": "सुरक्षित परामर्श",
+  "logout": "लॉगआउट",
+  "patientDashboardTitle": "रोगी डैशबोर्ड",
+  "doctorDashboardTitle": "डॉक्टर डैशबोर्ड",
+  "welcomeBackUser": "फिर से स्वागत है, {name}",
+  "@welcomeBackUser": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "patientHeroSubtitle": "बुकिंग से लेकर सत्यापित मेडिकल रिकॉर्ड तक सब कुछ अब एक शांत स्वास्थ्य कमांड सेंटर में है।",
+  "verifiedRecordsLabel": "सत्यापित रिकॉर्ड",
+  "appointmentsLabel": "अपॉइंटमेंट",
+  "bookAppointment": "अपॉइंटमेंट बुक करें",
+  "uploadRecord": "रिकॉर्ड अपलोड करें",
+  "nextConsultation": "अगला परामर्श",
+  "consultationWithDoctor": "{doctorName} के साथ परामर्श",
+  "@consultationWithDoctor": {
+    "placeholders": {
+      "doctorName": {}
+    }
+  },
+  "join": "जुड़ें",
+  "trackBookingsStatuses": "बुकिंग और स्थिति ट्रैक करें",
+  "medicalHistory": "मेडिकल हिस्ट्री",
+  "reportsVerificationAudit": "रिपोर्ट, सत्यापन और ऑडिट",
+  "prescriptionsTitle": "प्रिस्क्रिप्शन",
+  "doctorMedicationsNotes": "डॉक्टर की दवाइयाँ और नोट्स",
+  "healthPassport": "हेल्थ पासपोर्ट",
+  "portableVerifiedProfile": "आपकी पोर्टेबल सत्यापित प्रोफ़ाइल",
+  "recentRecords": "हाल के रिकॉर्ड",
+  "referenceCode": "संदर्भ: {code}",
+  "@referenceCode": {
+    "placeholders": {
+      "code": {}
+    }
+  },
+  "verified": "सत्यापित",
+  "notVerified": "सत्यापित नहीं",
+  "myAppointments": "मेरे अपॉइंटमेंट",
+  "noAppointmentsYet": "अभी तक कोई अपॉइंटमेंट नहीं",
+  "bookConsultationPrompt": "अपने विज़िट यहाँ रीयलटाइम में देखने के लिए डैशबोर्ड से परामर्श बुक करें।",
+  "confirmBooking": "बुकिंग की पुष्टि करें",
+  "selectDoctor": "डॉक्टर चुनें",
+  "telemedicineSuffix": "{name} - टेलीमेडिसिन",
+  "@telemedicineSuffix": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "consultationDateTime": "परामर्श दिनांक और समय",
+  "appointmentConfirmed": "अपॉइंटमेंट पुष्टि हो गई",
+  "noDoctorAccountAvailable": "बैकएंड में अभी कोई डॉक्टर खाता उपलब्ध नहीं है। पहले डॉक्टर से HealSync में साइन अप करने के लिए कहें, फिर दोबारा कोशिश करें।",
+  "payment": "भुगतान",
+  "consultationPayment": "परामर्श भुगतान",
+  "doctorLabel": "डॉक्टर",
+  "appointmentTime": "अपॉइंटमेंट समय",
+  "amount": "राशि",
+  "processingPayment": "भुगतान प्रोसेस हो रहा है...",
+  "processing": "प्रोसेस हो रहा है...",
+  "payNow": "अभी भुगतान करें",
+  "paymentFailedTryAgain": "भुगतान असफल रहा। फिर से कोशिश करें",
+  "paymentSuccessful": "भुगतान सफल",
+  "appointmentConfirmedMessage": "आपका अपॉइंटमेंट पुष्टि हो गया है",
+  "ok": "ठीक है",
+  "doctorGreeting": "नमस्ते डॉ. {name}",
+  "@doctorGreeting": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "doctorHeroSubtitle": "शांत क्लिनिकल वर्कफ़्लो के साथ परामर्श चलाएँ, प्रिस्क्रिप्शन जारी करें और रोगी रिपोर्ट सत्यापित करें।",
+  "quickActions": "त्वरित कार्य",
+  "patientList": "रोगी सूची",
+  "recordsHub": "रिकॉर्ड हब",
+  "upcomingConsultations": "आगामी परामर्श",
+  "start": "शुरू करें",
+  "patientsLabel": "रोगी",
+  "searchByDoctorName": "डॉक्टर के नाम से खोजें",
+  "noDoctorsFound": "कोई डॉक्टर नहीं मिला",
+  "all": "सभी",
+  "cardiology": "कार्डियोलॉजी",
+  "dermatology": "त्वचा रोग",
+  "general": "सामान्य",
+  "pediatrics": "बाल रोग",
+  "experienceValue": "अनुभव: {value}",
+  "@experienceValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "records": "रिकॉर्ड",
+  "historyTitle": "{name} का इतिहास",
+  "@historyTitle": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "grantAccess": "एक्सेस दें",
+  "revokeAccess": "एक्सेस हटाएँ",
+  "doctorAccessRevoked": "डॉक्टर एक्सेस सफलतापूर्वक हटाया गया।",
+  "doctorAccessGranted": "डॉक्टर एक्सेस सफलतापूर्वक दिया गया।",
+  "updateAccessPermissionsError": "अभी एक्सेस परमिशन अपडेट नहीं हो सकी।",
+  "liveConsultationRoom": "लाइव परामर्श कक्ष",
+  "channelLabel": "चैनल: {channelId}",
+  "@channelLabel": {
+    "placeholders": {
+      "channelId": {}
+    }
+  },
+  "recording": "रिकॉर्डिंग",
+  "liveDuration": "लाइव अवधि: {duration}",
+  "@liveDuration": {
+    "placeholders": {
+      "duration": {}
+    }
+  },
+  "viewHistory": "इतिहास देखें",
+  "addRecord": "रिकॉर्ड जोड़ें",
+  "mute": "म्यूट",
+  "unmute": "अनम्यूट",
+  "camera": "कैमरा",
+  "turnCameraOn": "कैमरा चालू करें",
+  "rearCamera": "रियर कैमरा",
+  "frontCamera": "फ्रंट कैमरा",
+  "end": "समाप्त करें",
+  "you": "आप",
+  "remoteParticipant": "दूसरा प्रतिभागी",
+  "cameraOff": "कैमरा बंद",
+  "localCamera": "लोकल कैमरा",
+  "waitingSecondPerson": "दूसरे व्यक्ति के जुड़ने की प्रतीक्षा है",
+  "connectedLive": "लाइव जुड़ा हुआ",
+  "diagnosis": "निदान",
+  "prescription": "प्रिस्क्रिप्शन",
+  "saveNotes": "नोट्स सहेजें",
+  "consultationNotesSaved": "परामर्श नोट्स सहेजे गए।",
+  "saveNotesError": "अभी परामर्श नोट्स सहेज नहीं सके।",
+  "patientHistoryUnavailable": "रोगी का इतिहास अभी उपलब्ध नहीं है।",
+  "noMedicalHistoryFound": "अभी तक कोई मेडिकल हिस्ट्री नहीं मिली।",
+  "onlyDoctorsCanAddRecords": "केवल डॉक्टर रिकॉर्ड जोड़ सकते हैं।",
+  "patientDetailsUnavailable": "रोगी विवरण अभी उपलब्ध नहीं हैं।",
+  "medicalRecordSaved": "मेडिकल रिकॉर्ड सफलतापूर्वक सहेजा गया।",
+  "cameraMicAccessRequired": "कैमरा और माइक एक्सेस आवश्यक है",
+  "openSettings": "सेटिंग्स खोलें",
+  "readyToJoinConsultationRoom": "परामर्श कक्ष में जुड़ने के लिए तैयार।",
+  "agoraNotConfigured": "Agora अभी कॉन्फ़िगर नहीं है। लाइव परामर्श में जुड़ने से पहले AGORA_APP_ID और यदि आवश्यक हो तो AGORA_TEMP_TOKEN जोड़ें।",
+  "preparingSecureVideoConsultation": "सुरक्षित वीडियो परामर्श तैयार किया जा रहा है...",
+  "youAreLiveInRoom": "आप परामर्श कक्ष में लाइव हैं।",
+  "doctorPatientConnected": "डॉक्टर और रोगी अब जुड़ चुके हैं।",
+  "otherParticipantLeft": "दूसरा प्रतिभागी कक्ष छोड़ गया। जुड़े रहें या परामर्श समाप्त करें।",
+  "connectingSecureConsultation": "सुरक्षित परामर्श जोड़ा जा रहा है...",
+  "connectionDroppedReconnect": "कनेक्शन टूट गया। परामर्श को फिर से जोड़ने की कोशिश हो रही है...",
+  "consultationConnectionFailedTokenless": "परामर्श कनेक्शन असफल हुआ। इसका मतलब आमतौर पर Agora प्रोजेक्ट को टोकन चाहिए। परीक्षण के लिए App Certificate बंद करें या AGORA_TEMP_TOKEN दें।",
+  "consultationConnectionFailedRetry": "परामर्श कनेक्शन असफल हुआ। कृपया फिर से कमरे में जुड़ें।",
+  "joinCancelledUntilPermissions": "परमिशन मिलने तक जुड़ना रद्द किया गया।",
+  "joinCancelledUntilEnabled": "परमिशन चालू होने तक जुड़ना रद्द किया गया।",
+  "joiningConsultationRoom": "परामर्श कक्ष में जुड़ रहा है...",
+  "liveVideoSetupWaiting": "लाइव वीडियो सेटअप Agora प्रमाणीकरण की प्रतीक्षा कर रहा है।",
+  "unableToJoinConsultationRoom": "परामर्श कक्ष में जुड़ नहीं सके।",
+  "consultationEnded": "परामर्श समाप्त हुआ।",
+  "cameraMicPermissionsRequired": "परामर्श में जुड़ने से पहले कैमरा और माइक्रोफ़ोन परमिशन आवश्यक हैं।",
+  "cameraMicPermanentlyDenied": "कैमरा और माइक्रोफ़ोन एक्सेस स्थायी रूप से अस्वीकृत है। जारी रखने के लिए सेटिंग्स खोलें।",
+  "healsyncNeedsPermissions": "लाइव परामर्श शुरू होने से पहले HealSync को कैमरा और माइक्रोफ़ोन परमिशन चाहिए।",
+  "agoraRejectingTokenless": "यह Agora प्रोजेक्ट बिना टोकन के एक्सेस अस्वीकार कर रहा है। परीक्षण के लिए Agora Console में App Certificate बंद करें या मान्य AGORA_TEMP_TOKEN दें।",
+  "agoraTokenMissingExpired": "आपका Agora टोकन गुम है या समाप्त हो गया है। नया टोकन बनाकर फिर से कोशिश करें।",
+  "networkUnstable": "नेटवर्क अस्थिर होने के कारण वीडियो सत्र कनेक्ट नहीं हो सका। कृपया फिर से कोशिश करें।",
+  "unableStartLiveConsultation": "अभी लाइव परामर्श शुरू नहीं हो सका। कृपया अपना Agora सेटअप जाँचें और फिर से कोशिश करें।",
+  "recordingFailed": "रिकॉर्डिंग असफल रही",
+  "readyForPreview": "प्रीव्यू के लिए तैयार",
+  "cameraIsOff": "कैमरा बंद है",
+  "waitingForOtherParticipant": "दूसरे प्रतिभागी की प्रतीक्षा है",
+  "agoraSetupRequired": "Agora सेटअप आवश्यक",
+  "agoraSetupRequiredBody": "आपका प्रोजेक्ट बिना टोकन वाले एक्सेस को अस्वीकार कर रहा है। परीक्षण के लिए Agora Console में App Certificate बंद करें या इस चैनल के लिए AGORA_TEMP_TOKEN बनाकर ऐप फिर चलाएँ।",
+  "noFileAttached": "कोई फ़ाइल संलग्न नहीं है",
+  "pdfFileAttached": "PDF फ़ाइल संलग्न है",
+  "fileAttached": "फ़ाइल संलग्न है",
+  "dateLabel": "दिनांक: {date}",
+  "@dateLabel": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "prescriptionLabel": "प्रिस्क्रिप्शन: {value}",
+  "@prescriptionLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "addRecordTitle": "रिकॉर्ड जोड़ें",
+  "patientLabel": "रोगी: {name}",
+  "@patientLabel": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "condition": "स्थिति",
+  "uploadFileOptional": "फ़ाइल अपलोड करें (वैकल्पिक)",
+  "saveRecord": "रिकॉर्ड सहेजें",
+  "saving": "सहेजा जा रहा है...",
+  "conditionPrescriptionRequired": "स्थिति और प्रिस्क्रिप्शन आवश्यक हैं।"
+}

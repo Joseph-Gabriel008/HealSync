@@ -1,0 +1,217 @@
+{
+  "users": [
+    {
+      "_id": "user-e00971b5-1b48-4578-8f27-43adee027450",
+      "name": "Local Test User",
+      "email": "localtest@healsync.app",
+      "role": "patient",
+      "passwordHash": "d3ad9315b7be5dd53b31a273b3b3aba5defe700808305aa16a3062b76658a791",
+      "createdAt": "2026-03-25T19:13:18.443Z",
+      "updatedAt": "2026-03-25T19:13:18.443Z"
+    },
+    {
+      "_id": "user-ab24621c-12f3-414c-8b3a-3cf587a7f990",
+      "name": "Aarav Sharma",
+      "email": "aarav@healsync.app",
+      "role": "patient",
+      "passwordHash": "d3ad9315b7be5dd53b31a273b3b3aba5defe700808305aa16a3062b76658a791",
+      "createdAt": "2026-03-25T19:22:24.897Z",
+      "updatedAt": "2026-03-26T05:57:27.359Z",
+      "phone": "",
+      "age": null,
+      "gender": ""
+    },
+    {
+      "_id": "user-fbdc5638-6fb5-400e-8fc0-0ee8f7943fef",
+      "name": "S.Joseph Gabriel",
+      "email": "sjosephgabriel@gmail.com",
+      "role": "patient",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "createdAt": "2026-03-25T19:24:26.365Z",
+      "updatedAt": "2026-03-25T20:36:00.216Z",
+      "phone": "9840220103",
+      "age": 20,
+      "gender": "Male"
+    },
+    {
+      "_id": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "name": "Pragathi S.S",
+      "email": "a@gmail.com",
+      "role": "doctor",
+      "passwordHash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+      "createdAt": "2026-03-25T19:27:15.078Z",
+      "updatedAt": "2026-03-25T19:27:15.078Z"
+    },
+    {
+      "_id": "user-4ce060cc-3bcb-4c43-8880-5e56529f6d68",
+      "name": "Aaravind",
+      "email": "b@gmail.com",
+      "role": "doctor",
+      "phone": "",
+      "age": null,
+      "gender": "",
+      "medicalHistory": "",
+      "passwordHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "createdAt": "2026-03-26T07:26:41.567Z",
+      "updatedAt": "2026-03-26T07:27:31.972Z"
+    }
+  ],
+  "appointments": [
+    {
+      "_id": "appointment-b1590517-bdaa-496d-a2d4-42d54009d8c4",
+      "patientId": "user-fbdc5638-6fb5-400e-8fc0-0ee8f7943fef",
+      "doctorId": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "date": "2026-03-26T19:27:00.000Z",
+      "status": "Scheduled",
+      "createdAt": "2026-03-25T19:34:55.115Z",
+      "updatedAt": "2026-03-25T19:34:55.115Z"
+    },
+    {
+      "_id": "appointment-4a0c6a7e-0a5d-4bfb-91cf-858ae79e0820",
+      "patientId": "user-fbdc5638-6fb5-400e-8fc0-0ee8f7943fef",
+      "doctorId": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "date": "2026-03-26T20:34:20.633950Z",
+      "status": "Scheduled",
+      "createdAt": "2026-03-25T20:34:30.386Z",
+      "updatedAt": "2026-03-25T20:34:30.387Z"
+    },
+    {
+      "_id": "appointment-0c7abfbd-5168-4493-a16f-88e994e4972c",
+      "patientId": "user-ab24621c-12f3-414c-8b3a-3cf587a7f990",
+      "doctorId": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "date": "2026-03-27T00:14:44.904747Z",
+      "status": "Scheduled",
+      "createdAt": "2026-03-26T00:14:55.630Z",
+      "updatedAt": "2026-03-26T00:14:55.630Z"
+    },
+    {
+      "_id": "appointment-c946dd02-7264-4974-8669-5b4764e19f85",
+      "patientId": "user-ab24621c-12f3-414c-8b3a-3cf587a7f990",
+      "doctorId": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "consultantIds": [],
+      "date": "2026-03-26T07:22:08.861229Z",
+      "status": "Emergency consultant requested",
+      "createdAt": "2026-03-26T07:22:09.113Z",
+      "updatedAt": "2026-03-26T07:22:09.113Z"
+    },
+    {
+      "_id": "appointment-48889284-d382-49f2-967f-66a5a0c535ee",
+      "patientId": "user-ab24621c-12f3-414c-8b3a-3cf587a7f990",
+      "doctorId": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "consultantIds": [],
+      "date": "2026-03-26T07:24:43.411976Z",
+      "status": "Emergency consultant requested",
+      "createdAt": "2026-03-26T07:24:43.664Z",
+      "updatedAt": "2026-03-26T07:24:43.664Z"
+    },
+    {
+      "_id": "appointment-411ad357-2481-415e-b78f-302c30dcf3a4",
+      "patientId": "user-ab24621c-12f3-414c-8b3a-3cf587a7f990",
+      "doctorId": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "consultantIds": [],
+      "date": "2026-03-26T07:25:26.558584Z",
+      "status": "Emergency consultant requested",
+      "createdAt": "2026-03-26T07:25:26.807Z",
+      "updatedAt": "2026-03-26T07:25:26.807Z"
+    },
+    {
+      "_id": "appointment-2db70e1e-5bff-4a6a-8593-8e3af129a6df",
+      "patientId": "user-ab24621c-12f3-414c-8b3a-3cf587a7f990",
+      "doctorId": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "consultantIds": [],
+      "date": "2026-03-27T10:09:57.652481Z",
+      "status": "Scheduled",
+      "createdAt": "2026-03-26T10:10:09.235Z",
+      "updatedAt": "2026-03-26T10:10:09.235Z"
+    }
+  ],
+  "records": [
+    {
+      "_id": "record-ac54cd4c-f772-4ef4-8e1b-13d4e24676b0",
+      "patientId": "user-fbdc5638-6fb5-400e-8fc0-0ee8f7943fef",
+      "doctorId": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "patientName": "",
+      "condition": "",
+      "prescription": "",
+      "fileName": "scaled_34.jpg",
+      "filePath": "",
+      "ipfsHash": "Qm13532b5133f3c9443dcbf424a0a772f15bce79f8c3fd",
+      "verified": true,
+      "createdAt": "2026-03-25T19:55:41.387Z",
+      "updatedAt": "2026-03-25T19:55:41.389Z"
+    },
+    {
+      "_id": "record-15065a0c-5cb3-44e0-b5c1-3d1c8bec2e66",
+      "patientId": "user-fbdc5638-6fb5-400e-8fc0-0ee8f7943fef",
+      "doctorId": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "patientName": "",
+      "condition": "",
+      "prescription": "",
+      "fileName": "scaled_34.jpg",
+      "filePath": "",
+      "ipfsHash": "Qm3c1ac568b387a0ab6239b5a325d25779c39cb8f32d54",
+      "verified": true,
+      "createdAt": "2026-03-25T19:55:54.596Z",
+      "updatedAt": "2026-03-25T19:55:54.596Z"
+    },
+    {
+      "_id": "record-5af5944f-ab5d-40bd-a4f0-1159d908e890",
+      "patientId": "user-ab24621c-12f3-414c-8b3a-3cf587a7f990",
+      "doctorId": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "patientName": "",
+      "condition": "",
+      "prescription": "",
+      "fileName": "scaled_1000063080.jpg",
+      "filePath": "",
+      "ipfsHash": "Qm9fa8b6a3d77d04de323f0f3750b96dd388ce35900da0",
+      "verified": true,
+      "createdAt": "2026-03-26T04:36:19.037Z",
+      "updatedAt": "2026-03-26T04:36:19.037Z"
+    },
+    {
+      "_id": "record-cb8e3d00-bb2d-4ec9-94dd-899c5bec2fe9",
+      "patientId": "user-ab24621c-12f3-414c-8b3a-3cf587a7f990",
+      "doctorId": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "patientName": "",
+      "condition": "",
+      "prescription": "",
+      "fileName": "scaled_1000063078.png",
+      "filePath": "",
+      "ipfsHash": "Qm78af0bbb1e4311398ddff76d5b9555236f1b71c7a0cb",
+      "verified": true,
+      "createdAt": "2026-03-26T04:36:59.381Z",
+      "updatedAt": "2026-03-26T04:36:59.381Z"
+    }
+  ],
+  "prescriptions": [
+    {
+      "_id": "prescription-464bbb90-ac82-48f8-a2a8-7287899d85c2",
+      "patientId": "user-ab24621c-12f3-414c-8b3a-3cf587a7f990",
+      "doctorId": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "medication": "Paracetamol 500mg twice daily for 3 days , move ointment",
+      "notes": "Paracetamol 500mg twice daily for 3 days , move ointment",
+      "createdAt": "2026-03-26T04:27:13.342Z",
+      "updatedAt": "2026-03-26T04:27:13.342Z"
+    },
+    {
+      "_id": "prescription-450566c8-7833-4828-8f3a-a0752edb876b",
+      "patientId": "user-fbdc5638-6fb5-400e-8fc0-0ee8f7943fef",
+      "doctorId": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "condition": "Mild viral fever. Hydration and rest advised.",
+      "medication": "Paracetamol 500mg twice daily for 3 days.",
+      "notes": "Paracetamol 500mg twice daily for 3 days.",
+      "createdAt": "2026-03-26T07:36:11.904Z",
+      "updatedAt": "2026-03-26T07:36:11.904Z"
+    },
+    {
+      "_id": "prescription-b740cf61-4ebd-4aa4-95d2-268ca6b6f3d9",
+      "patientId": "user-ab24621c-12f3-414c-8b3a-3cf587a7f990",
+      "doctorId": "user-c03643a3-c763-4375-b12f-0d70d1d5cfb1",
+      "condition": "Mild viral fever. Hydration and rest advised.",
+      "medication": "Paracetamol 500mg twice daily for 3 days.",
+      "notes": "Paracetamol 500mg twice daily for 3 days.",
+      "createdAt": "2026-03-26T10:11:10.870Z",
+      "updatedAt": "2026-03-26T10:11:10.870Z"
+    }
+  ]
+}

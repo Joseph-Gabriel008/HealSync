@@ -1,0 +1,228 @@
+{
+  "appTitle": "ஹீல்சிங்",
+  "welcome": "வரவேற்கிறோம்",
+  "upload": "மருத்துவ பதிவை பதிவேற்றவும்",
+  "language": "மொழி",
+  "english": "ஆங்கிலம்",
+  "hindi": "ஹிந்தி",
+  "tamil": "தமிழ்",
+  "telugu": "தெலுங்கு",
+  "malayalam": "மலையாளம்",
+  "createCareWorkspace": "உங்கள் சிகிச்சை பணிமனையை உருவாக்குங்கள்",
+  "welcomeBack": "மீண்டும் வரவேற்கிறோம்",
+  "signupSubtitle": "உங்கள் கணக்கை அமைத்து ஹீல்சிங்கை எப்படி பயன்படுத்த விரும்புகிறீர்கள் என்பதைத் தேர்வு செய்யுங்கள்.",
+  "loginSubtitle": "ஆலோசனைகள், பதிவுகள் மற்றும் சரிபார்க்கப்பட்ட சுகாதாரத் தரவை நிர்வகிக்க உள்நுழையுங்கள்.",
+  "fullName": "முழு பெயர்",
+  "email": "மின்னஞ்சல்",
+  "password": "கடவுச்சொல்",
+  "patient": "நோயாளர்",
+  "doctor": "மருத்துவர்",
+  "createAccount": "கணக்கை உருவாக்கவும்",
+  "loginAction": "உள்நுழை",
+  "alreadyHaveAccount": "ஏற்கனவே கணக்கு உள்ளதா? உள்நுழையுங்கள்",
+  "needAccount": "கணக்கு வேண்டுமா? பதிவு செய்யுங்கள்",
+  "careHeroHeadline": "இணைந்த, சரிபார்க்கப்பட்ட மற்றும் அழகாக எளிமையான சிகிச்சை அனுபவம்.",
+  "careHeroBody": "ஹீல்சிங் தொலைமருத்துவம், நேரடி பதிவுகள் மற்றும் அழகாக அமைந்த சுகாதார பணிமனையை ஒரே அமைதியான அனுபவமாக வழங்குகிறது.",
+  "realtimeRecords": "நேரடி பதிவுகள்",
+  "verifiedReports": "சரிபார்க்கப்பட்ட அறிக்கைகள்",
+  "secureConsultations": "பாதுகாப்பான ஆலோசனைகள்",
+  "logout": "வெளியேறு",
+  "patientDashboardTitle": "நோயாளர் டாஷ்போர்டு",
+  "doctorDashboardTitle": "மருத்துவர் டாஷ்போர்டு",
+  "welcomeBackUser": "மீண்டும் வரவேற்கிறோம், {name}",
+  "@welcomeBackUser": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "patientHeroSubtitle": "பதிவுப்பதிவு முதல் சரிபார்க்கப்பட்ட மருத்துவ பதிவுகள் வரை அனைத்தும் இப்போது ஒரே அமைதியான சுகாதார மையத்தில் உள்ளது.",
+  "verifiedRecordsLabel": "சரிபார்க்கப்பட்ட பதிவுகள்",
+  "appointmentsLabel": "நியமனங்கள்",
+  "bookAppointment": "நியமனம் பதிவு செய்யவும்",
+  "uploadRecord": "பதிவை பதிவேற்றவும்",
+  "nextConsultation": "அடுத்த ஆலோசனை",
+  "consultationWithDoctor": "{doctorName} உடன் ஆலோசனை",
+  "@consultationWithDoctor": {
+    "placeholders": {
+      "doctorName": {}
+    }
+  },
+  "join": "சேரவும்",
+  "trackBookingsStatuses": "பதிவுகள் மற்றும் நிலைகளை கண்காணிக்கவும்",
+  "medicalHistory": "மருத்துவ வரலாறு",
+  "reportsVerificationAudit": "அறிக்கைகள், சரிபார்ப்பு மற்றும் ஆய்வு",
+  "prescriptionsTitle": "மருந்து சீட்டுகள்",
+  "doctorMedicationsNotes": "மருத்துவர் மருந்துகள் மற்றும் குறிப்புகள்",
+  "healthPassport": "சுகாதார அடையாளம்",
+  "portableVerifiedProfile": "உங்கள் எடுத்துச்செல்லக்கூடிய சரிபார்க்கப்பட்ட சுயவிவரம்",
+  "recentRecords": "சமீபத்திய பதிவுகள்",
+  "referenceCode": "குறிப்பு: {code}",
+  "@referenceCode": {
+    "placeholders": {
+      "code": {}
+    }
+  },
+  "verified": "சரிபார்க்கப்பட்டது",
+  "notVerified": "சரிபார்க்கப்படவில்லை",
+  "myAppointments": "என் நியமனங்கள்",
+  "noAppointmentsYet": "இன்னும் நியமனங்கள் இல்லை",
+  "bookConsultationPrompt": "உங்கள் வருகைகளை இங்கே நேரடியாக காண டாஷ்போர்டில் இருந்து ஒரு ஆலோசனையை பதிவு செய்யுங்கள்.",
+  "confirmBooking": "பதிவை உறுதிப்படுத்தவும்",
+  "selectDoctor": "மருத்துவரை தேர்ந்தெடுக்கவும்",
+  "telemedicineSuffix": "{name} - தொலைமருத்துவம்",
+  "@telemedicineSuffix": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "consultationDateTime": "ஆலோசனை தேதி மற்றும் நேரம்",
+  "appointmentConfirmed": "நியமனம் உறுதிப்படுத்தப்பட்டது",
+  "noDoctorAccountAvailable": "பின்தளத்தில் இன்னும் மருத்துவர் கணக்கு இல்லை. முதலில் மருத்துவரை HealSync-ல் பதிவு செய்யச் சொல்லி பிறகு மீண்டும் முயற்சிக்கவும்.",
+  "payment": "கட்டணம்",
+  "consultationPayment": "ஆலோசனை கட்டணம்",
+  "doctorLabel": "மருத்துவர்",
+  "appointmentTime": "நியமன நேரம்",
+  "amount": "தொகை",
+  "processingPayment": "கட்டணம் செயலாக்கப்படுகிறது...",
+  "processing": "செயலாக்கப்படுகிறது...",
+  "payNow": "இப்போது கட்டணம் செலுத்தவும்",
+  "paymentFailedTryAgain": "கட்டணம் தோல்வியடைந்தது. மீண்டும் முயற்சிக்கவும்",
+  "paymentSuccessful": "கட்டணம் வெற்றி",
+  "appointmentConfirmedMessage": "உங்கள் நியமனம் உறுதிப்படுத்தப்பட்டது",
+  "ok": "சரி",
+  "doctorGreeting": "வணக்கம் டாக்டர் {name}",
+  "@doctorGreeting": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "doctorHeroSubtitle": "அமைதியான மருத்துவ பணிச்சூழலில் ஆலோசனைகளை நடத்தி, மருந்து சீட்டுகளை வழங்கி, நோயாளி அறிக்கைகளை சரிபார்க்கவும்.",
+  "quickActions": "விரைவு செயல்கள்",
+  "patientList": "நோயாளர் பட்டியல்",
+  "recordsHub": "பதிவுகள் மையம்",
+  "upcomingConsultations": "வரவிருக்கும் ஆலோசனைகள்",
+  "start": "தொடங்கு",
+  "patientsLabel": "நோயாளர்கள்",
+  "searchByDoctorName": "மருத்துவர் பெயரால் தேடுங்கள்",
+  "noDoctorsFound": "மருத்துவர்கள் இல்லை",
+  "all": "அனைத்தும்",
+  "cardiology": "இதயவியல்",
+  "dermatology": "தோல் மருத்துவம்",
+  "general": "பொது",
+  "pediatrics": "குழந்தை மருத்துவம்",
+  "experienceValue": "அனுபவம்: {value}",
+  "@experienceValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "records": "பதிவுகள்",
+  "historyTitle": "{name} வரலாறு",
+  "@historyTitle": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "grantAccess": "அணுகலை வழங்கவும்",
+  "revokeAccess": "அணுகலை ரத்து செய்யவும்",
+  "doctorAccessRevoked": "மருத்துவர் அணுகல் வெற்றிகரமாக ரத்து செய்யப்பட்டது.",
+  "doctorAccessGranted": "மருத்துவர் அணுகல் வெற்றிகரமாக வழங்கப்பட்டது.",
+  "updateAccessPermissionsError": "இப்போது அணுகல் அனுமதிகளை புதுப்பிக்க முடியவில்லை.",
+  "liveConsultationRoom": "நேரடி ஆலோசனை அறை",
+  "channelLabel": "சேனல்: {channelId}",
+  "@channelLabel": {
+    "placeholders": {
+      "channelId": {}
+    }
+  },
+  "recording": "பதிவாகிறது",
+  "liveDuration": "நேரடி நீளம்: {duration}",
+  "@liveDuration": {
+    "placeholders": {
+      "duration": {}
+    }
+  },
+  "viewHistory": "வரலாற்றைப் பார்க்கவும்",
+  "addRecord": "பதிவு சேர்க்கவும்",
+  "mute": "ஒலியை அணைக்கவும்",
+  "unmute": "ஒலியை இயக்கவும்",
+  "camera": "கேமரா",
+  "turnCameraOn": "கேமராவை இயக்கு",
+  "rearCamera": "பின்புற கேமரா",
+  "frontCamera": "முன் கேமரா",
+  "end": "முடி",
+  "you": "நீங்கள்",
+  "remoteParticipant": "மற்ற பங்கேற்பாளர்",
+  "cameraOff": "கேமரா அணைப்பு",
+  "localCamera": "உள்ளூர் கேமரா",
+  "waitingSecondPerson": "இரண்டாவது நபர் சேர காத்திருக்கிறது",
+  "connectedLive": "நேரடியாக இணைந்தது",
+  "diagnosis": "நோயறிதல்",
+  "prescription": "மருந்து சீட்டு",
+  "saveNotes": "குறிப்புகளை சேமிக்கவும்",
+  "consultationNotesSaved": "ஆலோசனை குறிப்புகள் சேமிக்கப்பட்டன.",
+  "saveNotesError": "ஆலோசனை குறிப்புகளை இப்போது சேமிக்க முடியவில்லை.",
+  "patientHistoryUnavailable": "நோயாளியின் வரலாறு இப்போது கிடைக்கவில்லை.",
+  "noMedicalHistoryFound": "இதுவரை மருத்துவ வரலாறு இல்லை.",
+  "onlyDoctorsCanAddRecords": "மருத்துவர்கள் மட்டும் பதிவுகளைச் சேர்க்க முடியும்.",
+  "patientDetailsUnavailable": "நோயாளர் விவரங்கள் இப்போது கிடைக்கவில்லை.",
+  "medicalRecordSaved": "மருத்துவ பதிவு வெற்றிகரமாக சேமிக்கப்பட்டது.",
+  "cameraMicAccessRequired": "கேமரா மற்றும் மைக் அணுகல் தேவை",
+  "openSettings": "அமைப்புகளைத் திறக்கவும்",
+  "readyToJoinConsultationRoom": "ஆலோசனை அறையில் சேர தயாராக உள்ளது.",
+  "agoraNotConfigured": "Agora இன்னும் அமைக்கப்படவில்லை. நேரடி ஆலோசனையில் சேருவதற்கு முன் AGORA_APP_ID மற்றும் தேவைப்பட்டால் AGORA_TEMP_TOKEN சேர்க்கவும்.",
+  "preparingSecureVideoConsultation": "பாதுகாப்பான வீடியோ ஆலோசனை தயாராகிறது...",
+  "youAreLiveInRoom": "நீங்கள் ஆலோசனை அறையில் நேரடியாக இருக்கிறீர்கள்.",
+  "doctorPatientConnected": "மருத்துவரும் நோயாளியும் இப்போது இணைந்துள்ளனர்.",
+  "otherParticipantLeft": "மற்ற பங்கேற்பாளர் அறையை விட்டு வெளியேறினார். இணைந்தே இருங்கள் அல்லது ஆலோசனையை முடிக்கவும்.",
+  "connectingSecureConsultation": "பாதுகாப்பான ஆலோசனை இணைக்கப்படுகிறது...",
+  "connectionDroppedReconnect": "இணைப்பு துண்டிக்கப்பட்டது. ஆலோசனையை மீண்டும் இணைக்க முயற்சிக்கிறது...",
+  "consultationConnectionFailedTokenless": "ஆலோசனை இணைப்பு தோல்வியடைந்தது. இது பொதுவாக Agora திட்டத்திற்கு டோக்கன் தேவை என்பதைக் குறிக்கிறது. சோதனைக்காக App Certificate-ஐ முடக்கவும் அல்லது AGORA_TEMP_TOKEN வழங்கவும்.",
+  "consultationConnectionFailedRetry": "ஆலோசனை இணைப்பு தோல்வியடைந்தது. மீண்டும் அறையில் சேரவும்.",
+  "joinCancelledUntilPermissions": "அனுமதிகள் வழங்கப்படும் வரை சேருதல் ரத்து செய்யப்பட்டது.",
+  "joinCancelledUntilEnabled": "அனுமதிகள் செயல்படுத்தப்படும் வரை சேருதல் ரத்து செய்யப்பட்டது.",
+  "joiningConsultationRoom": "ஆலோசனை அறையில் சேருகிறது...",
+  "liveVideoSetupWaiting": "Agora அங்கீகாரத்திற்காக நேரடி வீடியோ அமைப்பு காத்திருக்கிறது.",
+  "unableToJoinConsultationRoom": "ஆலோசனை அறையில் சேர முடியவில்லை.",
+  "consultationEnded": "ஆலோசனை முடிந்தது.",
+  "cameraMicPermissionsRequired": "ஆலோசனையில் சேருவதற்கு முன் கேமரா மற்றும் மைக்ரோஃபோன் அனுமதிகள் தேவை.",
+  "cameraMicPermanentlyDenied": "கேமரா மற்றும் மைக்ரோஃபோன் அணுகல் நிரந்தரமாக மறுக்கப்பட்டுள்ளது. தொடர அமைப்புகளைத் திறக்கவும்.",
+  "healsyncNeedsPermissions": "நேரடி ஆலோசனை தொடங்குவதற்கு முன் HealSync-க்கு கேமரா மற்றும் மைக்ரோஃபோன் அனுமதி தேவை.",
+  "agoraRejectingTokenless": "இந்த Agora திட்டம் டோக்கன் இல்லா அணுகலை நிராகரிக்கிறது. சோதனைக்காக Agora Console-ல் App Certificate-ஐ முடக்கவும் அல்லது செல்லுபடியாகும் AGORA_TEMP_TOKEN வழங்கவும்.",
+  "agoraTokenMissingExpired": "உங்கள் Agora டோக்கன் இல்லை அல்லது காலாவதியானது. புதிய டோக்கன் உருவாக்கி மீண்டும் முயற்சிக்கவும்.",
+  "networkUnstable": "நெட்வொர்க் நிலையற்றதால் வீடியோ அமர்வு இணைக்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்.",
+  "unableStartLiveConsultation": "இப்போது நேரடி ஆலோசனையை தொடங்க முடியவில்லை. உங்கள் Agora அமைப்பைச் சரிபார்த்து மீண்டும் முயற்சிக்கவும்.",
+  "recordingFailed": "பதிவு தோல்வியடைந்தது",
+  "readyForPreview": "முன்னோட்டத்துக்கு தயார்",
+  "cameraIsOff": "கேமரா அணைந்துள்ளது",
+  "waitingForOtherParticipant": "மற்ற பங்கேற்பாளருக்காக காத்திருக்கிறது",
+  "agoraSetupRequired": "Agora அமைப்பு தேவை",
+  "agoraSetupRequiredBody": "உங்கள் திட்டம் டோக்கன் இல்லா அணுகலை நிராகரிக்கிறது. சோதனைக்காக Agora Console-ல் App Certificate-ஐ முடக்கவும் அல்லது இந்த சேனலுக்கான AGORA_TEMP_TOKEN உருவாக்கி பயன்பாட்டை மீண்டும் இயக்கவும்.",
+  "noFileAttached": "கோப்பு இணைக்கப்படவில்லை",
+  "pdfFileAttached": "PDF கோப்பு இணைக்கப்பட்டுள்ளது",
+  "fileAttached": "கோப்பு இணைக்கப்பட்டுள்ளது",
+  "dateLabel": "தேதி: {date}",
+  "@dateLabel": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "prescriptionLabel": "மருந்து சீட்டு: {value}",
+  "@prescriptionLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "addRecordTitle": "பதிவு சேர்க்கவும்",
+  "patientLabel": "நோயாளர்: {name}",
+  "@patientLabel": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "condition": "நிலை",
+  "uploadFileOptional": "கோப்பை பதிவேற்றவும் (விருப்பம்)",
+  "saveRecord": "பதிவை சேமிக்கவும்",
+  "saving": "சேமிக்கப்படுகிறது...",
+  "conditionPrescriptionRequired": "நிலையும் மருந்து சீட்டும் அவசியம்."
+}

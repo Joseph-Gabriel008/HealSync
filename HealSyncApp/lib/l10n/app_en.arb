@@ -1,0 +1,228 @@
+{
+  "appTitle": "HealSync",
+  "welcome": "Welcome",
+  "upload": "Upload Medical Record",
+  "language": "Language",
+  "english": "English",
+  "hindi": "Hindi",
+  "tamil": "Tamil",
+  "telugu": "Telugu",
+  "malayalam": "Malayalam",
+  "createCareWorkspace": "Create your care workspace",
+  "welcomeBack": "Welcome back",
+  "signupSubtitle": "Set up your account and choose how you use HealSync.",
+  "loginSubtitle": "Sign in to manage consultations, records, and verified health data.",
+  "fullName": "Full name",
+  "email": "Email",
+  "password": "Password",
+  "patient": "Patient",
+  "doctor": "Doctor",
+  "createAccount": "Create account",
+  "loginAction": "Login",
+  "alreadyHaveAccount": "Already have an account? Login",
+  "needAccount": "Need an account? Sign up",
+  "careHeroHeadline": "Care that feels connected, verified, and beautifully simple.",
+  "careHeroBody": "HealSync brings telemedicine, realtime records, and a beautifully structured healthcare workspace into one calm experience.",
+  "realtimeRecords": "Realtime Records",
+  "verifiedReports": "Verified Reports",
+  "secureConsultations": "Secure Consultations",
+  "logout": "Logout",
+  "patientDashboardTitle": "Patient Dashboard",
+  "doctorDashboardTitle": "Doctor Dashboard",
+  "welcomeBackUser": "Welcome back, {name}",
+  "@welcomeBackUser": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "patientHeroSubtitle": "Everything from bookings to verified medical records now lives in one serene healthcare command center.",
+  "verifiedRecordsLabel": "Verified Records",
+  "appointmentsLabel": "Appointments",
+  "bookAppointment": "Book Appointment",
+  "uploadRecord": "Upload Record",
+  "nextConsultation": "Next Consultation",
+  "consultationWithDoctor": "Consultation with {doctorName}",
+  "@consultationWithDoctor": {
+    "placeholders": {
+      "doctorName": {}
+    }
+  },
+  "join": "Join",
+  "trackBookingsStatuses": "Track bookings and statuses",
+  "medicalHistory": "Medical History",
+  "reportsVerificationAudit": "Reports, verification, and audit",
+  "prescriptionsTitle": "Prescriptions",
+  "doctorMedicationsNotes": "Doctor medications and notes",
+  "healthPassport": "Health Passport",
+  "portableVerifiedProfile": "Your portable verified profile",
+  "recentRecords": "Recent Records",
+  "referenceCode": "Ref: {code}",
+  "@referenceCode": {
+    "placeholders": {
+      "code": {}
+    }
+  },
+  "verified": "Verified",
+  "notVerified": "Not Verified",
+  "myAppointments": "My Appointments",
+  "noAppointmentsYet": "No appointments yet",
+  "bookConsultationPrompt": "Book a consultation from the dashboard to see your visits here in real time.",
+  "confirmBooking": "Confirm Booking",
+  "selectDoctor": "Select doctor",
+  "telemedicineSuffix": "{name} - Telemedicine",
+  "@telemedicineSuffix": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "consultationDateTime": "Consultation Date & Time",
+  "appointmentConfirmed": "Appointment Confirmed",
+  "noDoctorAccountAvailable": "No doctor account is available in the backend yet. Ask the doctor to sign up in HealSync first, then try booking again.",
+  "payment": "Payment",
+  "consultationPayment": "Consultation Payment",
+  "doctorLabel": "Doctor",
+  "appointmentTime": "Appointment Time",
+  "amount": "Amount",
+  "processingPayment": "Processing payment...",
+  "processing": "Processing...",
+  "payNow": "Pay Now",
+  "paymentFailedTryAgain": "Payment Failed. Try again",
+  "paymentSuccessful": "Payment Successful",
+  "appointmentConfirmedMessage": "Your appointment has been confirmed",
+  "ok": "OK",
+  "doctorGreeting": "Hello Dr. {name}",
+  "@doctorGreeting": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "doctorHeroSubtitle": "Run consultations, issue prescriptions, and validate patient reports with a calm clinical workflow.",
+  "quickActions": "Quick Actions",
+  "patientList": "Patient List",
+  "recordsHub": "Records Hub",
+  "upcomingConsultations": "Upcoming Consultations",
+  "start": "Start",
+  "patientsLabel": "Patients",
+  "searchByDoctorName": "Search by doctor name",
+  "noDoctorsFound": "No doctors found",
+  "all": "All",
+  "cardiology": "Cardiology",
+  "dermatology": "Dermatology",
+  "general": "General",
+  "pediatrics": "Pediatrics",
+  "experienceValue": "Experience: {value}",
+  "@experienceValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "records": "Records",
+  "historyTitle": "{name} History",
+  "@historyTitle": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "grantAccess": "Grant Access",
+  "revokeAccess": "Revoke Access",
+  "doctorAccessRevoked": "Doctor access revoked successfully.",
+  "doctorAccessGranted": "Doctor access granted successfully.",
+  "updateAccessPermissionsError": "We could not update access permissions right now.",
+  "liveConsultationRoom": "Live Consultation Room",
+  "channelLabel": "Channel: {channelId}",
+  "@channelLabel": {
+    "placeholders": {
+      "channelId": {}
+    }
+  },
+  "recording": "Recording",
+  "liveDuration": "Live duration: {duration}",
+  "@liveDuration": {
+    "placeholders": {
+      "duration": {}
+    }
+  },
+  "viewHistory": "View History",
+  "addRecord": "Add Record",
+  "mute": "Mute",
+  "unmute": "Unmute",
+  "camera": "Camera",
+  "turnCameraOn": "Turn Camera On",
+  "rearCamera": "Rear Camera",
+  "frontCamera": "Front Camera",
+  "end": "End",
+  "you": "You",
+  "remoteParticipant": "Remote participant",
+  "cameraOff": "Camera off",
+  "localCamera": "Local camera",
+  "waitingSecondPerson": "Waiting for the second person to join",
+  "connectedLive": "Connected live",
+  "diagnosis": "Diagnosis",
+  "prescription": "Prescription",
+  "saveNotes": "Save Notes",
+  "consultationNotesSaved": "Consultation notes saved.",
+  "saveNotesError": "We could not save the consultation notes right now.",
+  "patientHistoryUnavailable": "Patient history is not available right now.",
+  "noMedicalHistoryFound": "No medical history found yet.",
+  "onlyDoctorsCanAddRecords": "Only doctors can add records.",
+  "patientDetailsUnavailable": "Patient details not available right now.",
+  "medicalRecordSaved": "Medical record saved successfully.",
+  "cameraMicAccessRequired": "Camera & Mic access required",
+  "openSettings": "Open Settings",
+  "readyToJoinConsultationRoom": "Ready to join the consultation room.",
+  "agoraNotConfigured": "Agora is not configured yet. Add AGORA_APP_ID and, if your Agora project uses tokens, AGORA_TEMP_TOKEN before joining a live consultation.",
+  "preparingSecureVideoConsultation": "Preparing secure video consultation...",
+  "youAreLiveInRoom": "You are live in the consultation room.",
+  "doctorPatientConnected": "Doctor and patient are now connected.",
+  "otherParticipantLeft": "The other participant left the room. Stay connected or end the consultation.",
+  "connectingSecureConsultation": "Connecting secure consultation...",
+  "connectionDroppedReconnect": "Connection dropped. Trying to reconnect the consultation...",
+  "consultationConnectionFailedTokenless": "The consultation connection failed. This usually means the Agora project requires a token. Disable App Certificate for testing, or provide AGORA_TEMP_TOKEN.",
+  "consultationConnectionFailedRetry": "The consultation connection failed. Please rejoin the room.",
+  "joinCancelledUntilPermissions": "Join cancelled until permissions are granted.",
+  "joinCancelledUntilEnabled": "Join cancelled until permissions are enabled.",
+  "joiningConsultationRoom": "Joining consultation room...",
+  "liveVideoSetupWaiting": "Live video setup is waiting for Agora authentication.",
+  "unableToJoinConsultationRoom": "Unable to join the consultation room.",
+  "consultationEnded": "Consultation ended.",
+  "cameraMicPermissionsRequired": "Camera and microphone permissions are required before joining the consultation.",
+  "cameraMicPermanentlyDenied": "Camera and microphone access is permanently denied. Open settings to continue.",
+  "healsyncNeedsPermissions": "HealSync needs camera and microphone permission before the live consultation can start.",
+  "agoraRejectingTokenless": "This Agora project is rejecting tokenless access. Disable App Certificate in the Agora console for testing, or provide a valid AGORA_TEMP_TOKEN.",
+  "agoraTokenMissingExpired": "Your Agora token is missing or expired. Generate a fresh token and try again.",
+  "networkUnstable": "The video session could not connect because the network is unstable. Please try again.",
+  "unableStartLiveConsultation": "We could not start the live consultation right now. Please verify your Agora setup and try again.",
+  "recordingFailed": "Recording failed",
+  "readyForPreview": "Ready for preview",
+  "cameraIsOff": "Camera is off",
+  "waitingForOtherParticipant": "Waiting for the other participant",
+  "agoraSetupRequired": "Agora setup required",
+  "agoraSetupRequiredBody": "Your project is rejecting no-token access. Disable App Certificate in Agora Console for testing, or generate an AGORA_TEMP_TOKEN for this channel and run the app again.",
+  "noFileAttached": "No file attached",
+  "pdfFileAttached": "PDF file attached",
+  "fileAttached": "File attached",
+  "dateLabel": "Date: {date}",
+  "@dateLabel": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "prescriptionLabel": "Prescription: {value}",
+  "@prescriptionLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "addRecordTitle": "Add Record",
+  "patientLabel": "Patient: {name}",
+  "@patientLabel": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "condition": "Condition",
+  "uploadFileOptional": "Upload File (Optional)",
+  "saveRecord": "Save Record",
+  "saving": "Saving...",
+  "conditionPrescriptionRequired": "Condition and prescription are required."
+}

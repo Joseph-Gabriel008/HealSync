@@ -1,0 +1,228 @@
+{
+  "appTitle": "హీల్‌సింక్",
+  "welcome": "స్వాగతం",
+  "upload": "మెడికల్ రికార్డ్ అప్లోడ్ చేయండి",
+  "language": "భాష",
+  "english": "ఇంగ్లీష్",
+  "hindi": "హిందీ",
+  "tamil": "తమిళం",
+  "telugu": "తెలుగు",
+  "malayalam": "మలయాళం",
+  "createCareWorkspace": "మీ కేర్ వర్క్‌స్పేస్‌ను సృష్టించండి",
+  "welcomeBack": "మళ్లీ స్వాగతం",
+  "signupSubtitle": "మీ ఖాతాను సెట్ చేసి HealSync ను ఎలా ఉపయోగించాలో ఎంచుకోండి.",
+  "loginSubtitle": "కన్సల్టేషన్లు, రికార్డులు మరియు ధృవీకరించిన ఆరోగ్య డేటాను నిర్వహించడానికి సైన్ ఇన్ చేయండి.",
+  "fullName": "పూర్తి పేరు",
+  "email": "ఇమెయిల్",
+  "password": "పాస్‌వర్డ్",
+  "patient": "రోగి",
+  "doctor": "డాక్టర్",
+  "createAccount": "ఖాతా సృష్టించండి",
+  "loginAction": "లాగిన్",
+  "alreadyHaveAccount": "ఇప్పటికే ఖాతా ఉందా? లాగిన్ చేయండి",
+  "needAccount": "ఖాతా కావాలా? సైన్ అప్ చేయండి",
+  "careHeroHeadline": "కనెక్ట్ అయిన, ధృవీకరించిన మరియు సులభమైన సంరక్షణ అనుభవం.",
+  "careHeroBody": "HealSync టెలిమెడిసిన్, రియల్‌టైమ్ రికార్డులు మరియు అందమైన ఆరోగ్య వర్క్‌స్పేస్‌ను ఒకే ప్రశాంత అనుభవంగా అందిస్తుంది.",
+  "realtimeRecords": "రియల్‌టైమ్ రికార్డులు",
+  "verifiedReports": "ధృవీకరించిన నివేదికలు",
+  "secureConsultations": "సురక్షిత కన్సల్టేషన్లు",
+  "logout": "లాగ్ అవుట్",
+  "patientDashboardTitle": "రోగి డాష్‌బోర్డ్",
+  "doctorDashboardTitle": "డాక్టర్ డాష్‌బోర్డ్",
+  "welcomeBackUser": "మళ్లీ స్వాగతం, {name}",
+  "@welcomeBackUser": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "patientHeroSubtitle": "బుకింగ్‌ల నుంచి ధృవీకరించిన మెడికల్ రికార్డుల వరకు అన్నీ ఇప్పుడు ఒక ప్రశాంత ఆరోగ్య కేంద్రంలో ఉన్నాయి.",
+  "verifiedRecordsLabel": "ధృవీకరించిన రికార్డులు",
+  "appointmentsLabel": "అపాయింట్‌మెంట్‌లు",
+  "bookAppointment": "అపాయింట్‌మెంట్ బుక్ చేయండి",
+  "uploadRecord": "రికార్డ్ అప్లోడ్ చేయండి",
+  "nextConsultation": "తదుపరి కన్సల్టేషన్",
+  "consultationWithDoctor": "{doctorName} తో కన్సల్టేషన్",
+  "@consultationWithDoctor": {
+    "placeholders": {
+      "doctorName": {}
+    }
+  },
+  "join": "చేరండి",
+  "trackBookingsStatuses": "బుకింగ్‌లు మరియు స్థితులను ట్రాక్ చేయండి",
+  "medicalHistory": "వైద్య చరిత్ర",
+  "reportsVerificationAudit": "నివేదికలు, ధృవీకరణ మరియు ఆడిట్",
+  "prescriptionsTitle": "ప్రిస్క్రిప్షన్లు",
+  "doctorMedicationsNotes": "డాక్టర్ మందులు మరియు గమనికలు",
+  "healthPassport": "హెల్త్ పాస్‌పోర్ట్",
+  "portableVerifiedProfile": "మీ పోర్టబుల్ ధృవీకరించిన ప్రొఫైల్",
+  "recentRecords": "ఇటీవలి రికార్డులు",
+  "referenceCode": "సూచన: {code}",
+  "@referenceCode": {
+    "placeholders": {
+      "code": {}
+    }
+  },
+  "verified": "ధృవీకరించబడింది",
+  "notVerified": "ధృవీకరించబడలేదు",
+  "myAppointments": "నా అపాయింట్‌మెంట్‌లు",
+  "noAppointmentsYet": "ఇంకా అపాయింట్‌మెంట్‌లు లేవు",
+  "bookConsultationPrompt": "మీ సందర్శనలను ఇక్కడ చూడటానికి డాష్‌బోర్డ్ నుండి కన్సల్టేషన్ బుక్ చేయండి.",
+  "confirmBooking": "బుకింగ్‌ను నిర్ధారించండి",
+  "selectDoctor": "డాక్టర్‌ను ఎంచుకోండి",
+  "telemedicineSuffix": "{name} - టెలిమెడిసిన్",
+  "@telemedicineSuffix": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "consultationDateTime": "కన్సల్టేషన్ తేదీ & సమయం",
+  "appointmentConfirmed": "అపాయింట్‌మెంట్ నిర్ధారించబడింది",
+  "noDoctorAccountAvailable": "బ్యాక్‌ఎండ్‌లో ఇంకా డాక్టర్ ఖాతా లేదు. ముందుగా డాక్టర్ HealSync లో సైన్ అప్ చేసి మళ్లీ ప్రయత్నించండి.",
+  "payment": "చెల్లింపు",
+  "consultationPayment": "కన్సల్టేషన్ చెల్లింపు",
+  "doctorLabel": "డాక్టర్",
+  "appointmentTime": "అపాయింట్‌మెంట్ సమయం",
+  "amount": "మొత్తం",
+  "processingPayment": "చెల్లింపు ప్రాసెస్ అవుతోంది...",
+  "processing": "ప్రాసెస్ అవుతోంది...",
+  "payNow": "ఇప్పుడు చెల్లించండి",
+  "paymentFailedTryAgain": "చెల్లింపు విఫలమైంది. మళ్లీ ప్రయత్నించండి",
+  "paymentSuccessful": "చెల్లింపు విజయవంతం",
+  "appointmentConfirmedMessage": "మీ అపాయింట్‌మెంట్ నిర్ధారించబడింది",
+  "ok": "సరే",
+  "doctorGreeting": "హలో డా. {name}",
+  "@doctorGreeting": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "doctorHeroSubtitle": "శాంతమైన క్లినికల్ వర్క్‌ఫ్లోతో కన్సల్టేషన్లు నిర్వహించి, ప్రిస్క్రిప్షన్లు ఇచ్చి, రోగి నివేదికలను ధృవీకరించండి.",
+  "quickActions": "త్వరిత చర్యలు",
+  "patientList": "రోగుల జాబితా",
+  "recordsHub": "రికార్డ్స్ హబ్",
+  "upcomingConsultations": "రాబోయే కన్సల్టేషన్లు",
+  "start": "ప్రారంభించండి",
+  "patientsLabel": "రోగులు",
+  "searchByDoctorName": "డాక్టర్ పేరుతో శోధించండి",
+  "noDoctorsFound": "డాక్టర్లు లేరు",
+  "all": "అన్ని",
+  "cardiology": "కార్డియాలజీ",
+  "dermatology": "డెర్మటాలజీ",
+  "general": "జనరల్",
+  "pediatrics": "పీడియాట్రిక్స్",
+  "experienceValue": "అనుభవం: {value}",
+  "@experienceValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "records": "రికార్డులు",
+  "historyTitle": "{name} చరిత్ర",
+  "@historyTitle": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "grantAccess": "అనుమతి ఇవ్వండి",
+  "revokeAccess": "అనుమతి రద్దు చేయండి",
+  "doctorAccessRevoked": "డాక్టర్ యాక్సెస్ విజయవంతంగా రద్దు చేయబడింది.",
+  "doctorAccessGranted": "డాక్టర్ యాక్సెస్ విజయవంతంగా ఇవ్వబడింది.",
+  "updateAccessPermissionsError": "ప్రస్తుతం యాక్సెస్ అనుమతులను నవీకరించలేకపోయాం.",
+  "liveConsultationRoom": "లైవ్ కన్సల్టేషన్ రూమ్",
+  "channelLabel": "చానల్: {channelId}",
+  "@channelLabel": {
+    "placeholders": {
+      "channelId": {}
+    }
+  },
+  "recording": "రికార్డింగ్",
+  "liveDuration": "లైవ్ వ్యవధి: {duration}",
+  "@liveDuration": {
+    "placeholders": {
+      "duration": {}
+    }
+  },
+  "viewHistory": "చరిత్ర చూడండి",
+  "addRecord": "రికార్డు జోడించండి",
+  "mute": "మ్యూట్",
+  "unmute": "అన్‌మ్యూట్",
+  "camera": "కెమెరా",
+  "turnCameraOn": "కెమెరా ఆన్ చేయండి",
+  "rearCamera": "వెనుక కెమెరా",
+  "frontCamera": "ముందు కెమెరా",
+  "end": "ముగించండి",
+  "you": "మీరు",
+  "remoteParticipant": "ఇతర పాల్గొనేవారు",
+  "cameraOff": "కెమెరా ఆఫ్",
+  "localCamera": "లోకల్ కెమెరా",
+  "waitingSecondPerson": "రెండో వ్యక్తి చేరడానికి వేచి ఉంది",
+  "connectedLive": "లైవ్‌లో కనెక్ట్ అయింది",
+  "diagnosis": "నిర్ధారణ",
+  "prescription": "ప్రిస్క్రిప్షన్",
+  "saveNotes": "గమనికలు సేవ్ చేయండి",
+  "consultationNotesSaved": "కన్సల్టేషన్ గమనికలు సేవ్ అయ్యాయి.",
+  "saveNotesError": "ప్రస్తుతం కన్సల్టేషన్ గమనికలను సేవ్ చేయలేకపోయాం.",
+  "patientHistoryUnavailable": "రోగి చరిత్ర ప్రస్తుతం అందుబాటులో లేదు.",
+  "noMedicalHistoryFound": "ఇంకా వైద్య చరిత్ర కనబడలేదు.",
+  "onlyDoctorsCanAddRecords": "డాక్టర్లు మాత్రమే రికార్డులు జోడించగలరు.",
+  "patientDetailsUnavailable": "రోగి వివరాలు ప్రస్తుతం అందుబాటులో లేవు.",
+  "medicalRecordSaved": "మెడికల్ రికార్డ్ విజయవంతంగా సేవ్ అయింది.",
+  "cameraMicAccessRequired": "కెమెరా & మైక్ యాక్సెస్ అవసరం",
+  "openSettings": "సెట్టింగ్‌లు తెరవండి",
+  "readyToJoinConsultationRoom": "కన్సల్టేషన్ రూమ్‌లో చేరడానికి సిద్ధంగా ఉంది.",
+  "agoraNotConfigured": "Agora ఇంకా కాన్ఫిగర్ కాలేదు. లైవ్ కన్సల్టేషన్‌లో చేరే ముందు AGORA_APP_ID మరియు అవసరమైతే AGORA_TEMP_TOKEN జోడించండి.",
+  "preparingSecureVideoConsultation": "సురక్షిత వీడియో కన్సల్టేషన్ సిద్ధమవుతోంది...",
+  "youAreLiveInRoom": "మీరు కన్సల్టేషన్ రూమ్‌లో లైవ్‌లో ఉన్నారు.",
+  "doctorPatientConnected": "డాక్టర్ మరియు రోగి ఇప్పుడు కనెక్ట్ అయ్యారు.",
+  "otherParticipantLeft": "ఇతర పాల్గొనేవారు రూమ్‌ను విడిచిపెట్టారు. కనెక్ట్‌గా ఉండండి లేదా కన్సల్టేషన్ ముగించండి.",
+  "connectingSecureConsultation": "సురక్షిత కన్సల్టేషన్ కనెక్ట్ అవుతోంది...",
+  "connectionDroppedReconnect": "కనెక్షన్ పడిపోయింది. కన్సల్టేషన్‌ను మళ్లీ కనెక్ట్ చేయడానికి ప్రయత్నిస్తోంది...",
+  "consultationConnectionFailedTokenless": "కన్సల్టేషన్ కనెక్షన్ విఫలమైంది. సాధారణంగా ఇది Agora ప్రాజెక్టుకు టోకెన్ అవసరమని సూచిస్తుంది. టెస్టింగ్ కోసం App Certificate ను ఆఫ్ చేయండి లేదా AGORA_TEMP_TOKEN ఇవ్వండి.",
+  "consultationConnectionFailedRetry": "కన్సల్టేషన్ కనెక్షన్ విఫలమైంది. దయచేసి మళ్లీ రూమ్‌లో చేరండి.",
+  "joinCancelledUntilPermissions": "అనుమతులు ఇచ్చే వరకు చేరడం రద్దు చేయబడింది.",
+  "joinCancelledUntilEnabled": "అనుమతులు ఆన్ అయ్యే వరకు చేరడం రద్దు చేయబడింది.",
+  "joiningConsultationRoom": "కన్సల్టేషన్ రూమ్‌లో చేరుతోంది...",
+  "liveVideoSetupWaiting": "లైవ్ వీడియో సెటప్ Agora ధృవీకరణ కోసం వేచి ఉంది.",
+  "unableToJoinConsultationRoom": "కన్సల్టేషన్ రూమ్‌లో చేరలేకపోయాం.",
+  "consultationEnded": "కన్సల్టేషన్ ముగిసింది.",
+  "cameraMicPermissionsRequired": "కన్సల్టేషన్‌లో చేరే ముందు కెమెరా మరియు మైక్రోఫోన్ అనుమతులు అవసరం.",
+  "cameraMicPermanentlyDenied": "కెమెరా మరియు మైక్రోఫోన్ యాక్సెస్ శాశ్వతంగా నిరాకరించబడింది. కొనసాగడానికి సెట్టింగ్‌లు తెరవండి.",
+  "healsyncNeedsPermissions": "లైవ్ కన్సల్టేషన్ ప్రారంభమయ్యే ముందు HealSync కు కెమెరా మరియు మైక్రోఫోన్ అనుమతులు అవసరం.",
+  "agoraRejectingTokenless": "ఈ Agora ప్రాజెక్ట్ టోకెన్ లేని యాక్సెస్‌ను తిరస్కరిస్తోంది. టెస్టింగ్ కోసం Agora Console లో App Certificate ను ఆఫ్ చేయండి లేదా చెల్లుబాటు అయ్యే AGORA_TEMP_TOKEN ఇవ్వండి.",
+  "agoraTokenMissingExpired": "మీ Agora టోకెన్ లేదు లేదా గడువు ముగిసింది. కొత్త టోకెన్ సృష్టించి మళ్లీ ప్రయత్నించండి.",
+  "networkUnstable": "నెట్‌వర్క్ అస్థిరంగా ఉండటంతో వీడియో సెషన్ కనెక్ట్ కాలేదు. మళ్లీ ప్రయత్నించండి.",
+  "unableStartLiveConsultation": "ప్రస్తుతం లైవ్ కన్సల్టేషన్ ప్రారంభించలేకపోయాం. దయచేసి మీ Agora సెటప్‌ను తనిఖీ చేసి మళ్లీ ప్రయత్నించండి.",
+  "recordingFailed": "రికార్డింగ్ విఫలమైంది",
+  "readyForPreview": "ప్రీవ్యూ కోసం సిద్ధంగా ఉంది",
+  "cameraIsOff": "కెమెరా ఆఫ్‌లో ఉంది",
+  "waitingForOtherParticipant": "ఇతర పాల్గొనేవారి కోసం వేచి ఉంది",
+  "agoraSetupRequired": "Agora సెటప్ అవసరం",
+  "agoraSetupRequiredBody": "మీ ప్రాజెక్ట్ టోకెన్ లేని యాక్సెస్‌ను తిరస్కరిస్తోంది. టెస్టింగ్ కోసం Agora Console లో App Certificate ను ఆఫ్ చేయండి లేదా ఈ చానల్ కోసం AGORA_TEMP_TOKEN తయారు చేసి యాప్‌ను మళ్లీ నడపండి.",
+  "noFileAttached": "ఫైల్ జత చేయలేదు",
+  "pdfFileAttached": "PDF ఫైల్ జత చేయబడింది",
+  "fileAttached": "ఫైల్ జత చేయబడింది",
+  "dateLabel": "తేదీ: {date}",
+  "@dateLabel": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "prescriptionLabel": "ప్రిస్క్రిప్షన్: {value}",
+  "@prescriptionLabel": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "addRecordTitle": "రికార్డు జోడించండి",
+  "patientLabel": "రోగి: {name}",
+  "@patientLabel": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "condition": "పరిస్థితి",
+  "uploadFileOptional": "ఫైల్ అప్లోడ్ చేయండి (ఐచ్చికం)",
+  "saveRecord": "రికార్డు సేవ్ చేయండి",
+  "saving": "సేవ్ అవుతోంది...",
+  "conditionPrescriptionRequired": "పరిస్థితి మరియు ప్రిస్క్రిప్షన్ తప్పనిసరి."
+}
